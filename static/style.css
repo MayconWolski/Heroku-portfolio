@@ -1,0 +1,75 @@
+.foto-perfil{
+    height: 100%;
+    width: 300px;
+    max-width: 100%;
+    border: 50%;
+    padding-top: 20px;
+
+
+}
+
+.corPrimaria{
+    background-color: #222c2a;
+}
+
+.corSecundaria{
+    background-color: #3280ce;
+}
+
+p{
+    color: black !important;
+}
+
+.icones{
+    padding-left: 5px;
+}
+
+.titulosBrancos{
+    text-decoration: underline;
+    text-combine-upright: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.titulosVerdes{
+    text-decoration: underline;
+    text-combine-upright: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    color: #18bc9c;
+}
+
+.textoBranco{
+    color: white !important;
+
+}
+
+.jonbotron{
+    margin-bottom: 0px;
+}
+
+.textoFooter{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#sobreMim{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#depoimentos{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.baixo{
+    padding-bottom: 30px;
+}
